@@ -1,1 +1,14 @@
-Customer ID | Name | Email
+CUSTOMERS
+=================================
+
+Customer ID: 1
+Name: Varun Thakran
+Email: varun@example.com
+
+Customer ID: 2
+Name: Rahul Sharma
+Email: rahul@example.com
+
+Customer ID: 3
+Name: Priya Singh
+Email: priya@example.com
