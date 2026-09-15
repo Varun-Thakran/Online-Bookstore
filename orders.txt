@@ -1,1 +1,23 @@
-Order ID | Customer | Book | Status
+ORDERS
+=================================
+
+Order ID: 1
+Customer: Varun Thakran
+Book: The Alchemist
+Quantity: 1
+Total: 399
+Status: Shipped
+
+Order ID: 2
+Customer: Rahul Sharma
+Book: Harry Potter
+Quantity: 2
+Total: 998
+Status: Processing
+
+Order ID: 3
+Customer: Priya Singh
+Book: Atomic Habits
+Quantity: 1
+Total: 450
+Status: Delivered
